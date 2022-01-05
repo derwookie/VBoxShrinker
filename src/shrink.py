@@ -16,7 +16,7 @@ class GUI(themedtk):
     def defineGUI(self):
         print("self.defineGUI()")
         #windowconf
-        self.title("VBoxShrinker v0.1-beta")
+        self.title("VBoxShrinker v0.2-beta")
         p1 = tk.PhotoImage(file=os.path.join(os.path.dirname(__file__), "icon.png"))
         self.iconphoto(False, p1)
         
