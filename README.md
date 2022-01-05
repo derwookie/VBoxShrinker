@@ -2,10 +2,10 @@
 A little GUI-Application written in Python with Tkinter to shrink existing VirtualBox vdi-files if they are shrinkable
 
 ## Dependent packages necessary
-1. ttkthemes
+1. ttkthemes ($ python -m pip install ttkthemes)
 2. tkinter
-3. pyinstaller
-4. pyperclip
+3. pyinstaller ($ python -m pip install pyinstaller)
+4. pyperclip ($ python -m pip install pyperclip)
 
 ## How to Build an exe
 ### On Windows
