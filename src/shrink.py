@@ -19,8 +19,6 @@ class GUI(themedtk):
         self.title("VBoxShrinker v0.1-beta")
         p1 = tk.PhotoImage(file=os.path.join(os.path.dirname(__file__), "icon.png"))
         self.iconphoto(False, p1)
-        #self.iconbitmap(os.path.join(os.path.dirname(__file__), "icon.ico"))
-        #self.geometry("1280x768")
         
         #gridconf
         self.columnconfigure(0, weight=1)
