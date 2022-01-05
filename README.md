@@ -9,7 +9,7 @@ A little GUI-Application written in Python with Tkinter to shrink existing Virtu
 
 ## How to Build an exe
 ### On Windows
-1. Double-Click on Compile_EXE.bat
+1. Double-Click on Compile.bat
 2. Find your exe at \dist\shrink.exe
 
 ### On Linux
