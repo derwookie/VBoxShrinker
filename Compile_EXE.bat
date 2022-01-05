@@ -10,7 +10,7 @@ rmdir /s /q src\__pycache__
 rmdir /s /q build
 
 :: Copy the Icon into the final directory
-xcopy /v /y src\icon.ico .\dist
+xcopy /v /y src\icon.png .\dist
 
 REM ".exe con be found in .\dist"
 pause
