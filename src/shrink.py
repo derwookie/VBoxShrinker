@@ -16,7 +16,7 @@ class GUI(themedtk):
     def defineGUI(self):
         print("self.defineGUI()")
         #windowconf
-        self.title("VirtualBox Shrinker")
+        self.title("VBoxShrinker v0.1-beta")
         self.iconbitmap(os.path.join(os.path.dirname(__file__), "icon.ico"))
         #self.geometry("1280x768")
         
